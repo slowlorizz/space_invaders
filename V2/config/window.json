@@ -1,0 +1,7 @@
+{
+    "caption": "[S P A C E - I N V A D E R S]",
+    "frame_rate": 90,
+    "paths":{
+        "icon": "..\\src\\window\\window_icon_001.png"
+    }
+}
